@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "backerysys.h"
+#include "gymsys.h"
 #include "prog2Utils.h"// biblioteca de funções auxiliares. Por exemplo editar informações de arquivos.
 #include <time.h>
 

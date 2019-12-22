@@ -1,5 +1,5 @@
-#ifndef academiasys_h
-#define academiasys_h
+#ifndef gymsys_h
+#define gymsys_h
 
 // Valores do tipo cliente
 typedef struct clients clients;
